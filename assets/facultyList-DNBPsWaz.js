@@ -1,0 +1,1 @@
+function e(t,a,r,c){return{id:t,name:a,image:`/images/${a.replace(/\s+/g,"").toLowerCase()}.jpg`,dept:r,description:c,totalRating:0,ratedBy:0,avgrating:0}}const l=[e(1,"Yeasir Arafat Ratul","Faculty of CSE","He is an Excellent Teacher of CSE"),e(2,"Poly B Srabonti","Faculty of CSE","She is an Excellent Teacher of CSE")];export{l as f};
