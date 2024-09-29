@@ -14,7 +14,7 @@ import"./modulepreload-polyfill-B5Qt9EMX.js";/* empty css              */import{
           class="dpanddescription static flex flex-col justify-center items-center"
         >
           <div
-            class="relative w-[8rem] h-[8rem] mt-9 rounded-full p-[5px] bg-gradient-to-r from-[#ff7e5f] to-[#ff5f6d]"
+            class="relative w-[8rem] h-[8rem] mt-9 rounded-full p-[5px] bg-gradient-to-r from-[#ff7e5f]   to-[#ff5f6d]"
           >
             <img
               src="${e.image}"
