@@ -1,6 +1,6 @@
 import"./modulepreload-polyfill-B5Qt9EMX.js";/* empty css              */import{f as r}from"./facultyList-DNBPsWaz.js";var t=document.querySelector(".ham"),s=document.querySelector(".link"),i=document.querySelector(".contain"),a=0;function o(){let l="";r.forEach(e=>{l+=`
  <div
-        class="card w-[95vw] min-h-[55vh] md:h-[80vh] md:w-[28%] bg-[#3b3f6c] mt-1 rounded-[3.15rem] relative"
+        class="card w-[95vw] min-h-[60vh] md:h-[80vh] md:w-[28%] bg-[#3b3f6c] mt-1 rounded-[3.15rem] relative"
       >
         <div class="starlogo absolute left-5 top-4">
           <img
